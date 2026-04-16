@@ -1,4 +1,3 @@
-![Banner](./banner.jpg)
 
 # 💫 Hi 👋, I'm Soumyadeep Samanta
 **A passionate Full Stack Developer || React, Next.js, JavaScript || Building Web Projects**
