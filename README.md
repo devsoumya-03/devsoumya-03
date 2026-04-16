@@ -1,4 +1,4 @@
-
+![Logo](https://github.com/devsoumya-03/devsoumya-03/blob/main/Black%20Minimalist%20Linkedin%20Banner%20-%20Copy.jpg)
 # 💫 Hi 👋, I'm Soumyadeep Samanta
 **A passionate Full Stack Developer || React, Next.js, JavaScript || Building Web Projects**
 
