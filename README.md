@@ -1,3 +1,5 @@
+![Banner](./banner.jpg)
+
 # 💫 Hi 👋, I'm Soumyadeep Samanta
 **A passionate Full Stack Developer || React, Next.js, JavaScript || Building Web Projects**
 
@@ -10,7 +12,7 @@ Email Me 👉 ✉️ **soumyadeepsamanta18@gmail.com** For Collaboration/Project
 - 😄 **Pronouns:** Soumya
 
 ## 🔗 Connect with me:
-![Banner](./banner.jpg)
+
 - 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/soumyadeep2478) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/soumyadeepsamanta03) 
