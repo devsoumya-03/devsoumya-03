@@ -21,7 +21,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=devsoumya-03&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=devsoumya-03&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=devsoumya-03&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact))
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=devsoumya-03&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=devsoumya-03&theme=radical&no-frame=false&no-bg=true&margin-w=4)
