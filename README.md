@@ -11,7 +11,7 @@ Email Me 👉 ✉️ **soumyadeepsamanta18@gmail.com** For Collaboration/Project
 - 😄 **Pronouns:** Soumya
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/soumyadeep2478) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/soumyadeepsamanta03) ![Facebook](https://www.facebook.com/share/1Cw6vGj4Gb/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/soumyadeep2478) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/soumyadeepsamanta03) [![Facebook](https://www.facebook.com/profile.php?id=100086207951680)]
 
 <!-- Snake Game Repo View -->
 
